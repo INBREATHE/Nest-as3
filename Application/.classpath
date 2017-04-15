@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/Latest"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="assets/data"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/visuals"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/framework"/>
+	<classpathentry kind="output" path="/_out/production/Application"/>
+</classpath>

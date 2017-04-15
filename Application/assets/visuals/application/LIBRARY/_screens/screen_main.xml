@@ -1,0 +1,124 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_screens/screen_main" itemID="53f84ca2-000003c0" lastModified="1480883531">
+  <timeline>
+    <DOMTimeline name="screen_main">
+      <layers>
+        <DOMLayer name="LAYOUT" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="TABLET_LANDSCAPE" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="goldencrop" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_misc/goldencrop">
+                  <transformationPoint>
+                    <Point x="512" y="384"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.0390625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="menu" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_ui/buttons/mail" name="btn_mails" symbolType="button">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="menu" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_screens/_main/btn_settings" name="menu_settings" symbolType="button">
+                  <matrix>
+                    <Matrix tx="426" ty="382.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_screens/_main/btn_levels" name="menu_levels" symbolType="button">
+                  <matrix>
+                    <Matrix tx="426" ty="293.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2" y="2.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_screens/_main/btn_creadits" name="menu_credits" symbolType="button">
+                  <matrix>
+                    <Matrix tx="426" ty="472.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="82.35" y="38"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="logo" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_screens/_main/main_title" name="title">
+                  <matrix>
+                    <Matrix tx="216" ty="162"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="164.5" y="45.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="info" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_ui/buttons/info" name="btn_info" symbolType="button">
+                  <matrix>
+                    <Matrix tx="976"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_graphics/background_tablet_landscape" name="background">
+                  <matrix>
+                    <Matrix a="0.762420654296875" d="0.746109008789063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="671.55" y="514.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

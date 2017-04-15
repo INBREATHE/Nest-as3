@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="application" itemID="580e4995-0000020e" lastModified="1480866408">
+  <timeline>
+    <DOMTimeline name="application">
+      <layers>
+        <DOMLayer name="Golden Crop" color="#9933CC" locked="true" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_misc/goldencrop" centerPoint3DX="512" centerPoint3DY="384">
+                  <transformationPoint>
+                    <Point x="512" y="384"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Huds" color="#FF800A" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="header" color="#4FFFFF" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_ui/huds/hud_header" name="hud_header" centerPoint3DX="512" centerPoint3DY="25">
+                  <transformationPoint>
+                    <Point x="512" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="footer" color="#FF4FFF" parentLayerIndex="1" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_ui/huds/hud_footer" name="hub_footer" selected="true" centerPoint3DX="512" centerPoint3DY="745">
+                  <matrix>
+                    <Matrix ty="720"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="512" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Screens" color="#9933CC" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="game" color="#9933CC" parentLayerIndex="4" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="levels" color="#FF4FFF" parentLayerIndex="4" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_screens/screen_levels" name="levels" centerPoint3DX="512" centerPoint3DY="384">
+                  <transformationPoint>
+                    <Point x="512" y="384"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="main" color="#4FFF4F" parentLayerIndex="4" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_screens/screen_main" name="main" centerPoint3DX="512" centerPoint3DY="384">
+                  <transformationPoint>
+                    <Point x="619.75" y="384"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

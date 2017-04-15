@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="framework">
+    <archive path="D:/Projects/INBREATHE/Frameworks/Nest/as3-single-core/Framework/bin/framework.swc" />
+  </library>
+  <library name="starling">
+    <archive path="D:/Projects/INBREATHE/Frameworks/Nest/as3-single-core/_libs/starling.swc" />
+  </library>
+  <library name="visuals">
+    <archive path="D:/Projects/INBREATHE/Frameworks/Nest/as3-single-core/Application/assets/visuals.swc" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  	<str key="types_info_title" value="Nest Game"/>
+  	<str key="types_info_text" value="In this application, you can find a variety of games with words.&#13;  	
+Justo porro maiestatis te sed, at nominati torquatos adversarium qui. Ne porro augue suscipit mei, an iriure quaeque omnesque mei, no saperet ceteros sit. Usu no tale dicunt nonumes. Vel graece iisque nominavi te, cu eos numquam tincidunt definitionem. Ex vide melius concludaturque mel, diam cetero ut mel.
+
+Sed iusto recusabo tractatos ut. Eu pri mandamus patrioque dissentiunt, ius dignissim adversarium no. 
+
+Sea nulla voluptatum cotidieque ea, nam clita facilisis ad. Id his partem euismod, eum in stet quaeque scaevola."
+	/>
+
+	<str key="holdpopup_text_from" value="from"/>
+	
+	<popups>
+		<mails>
+			<title>MAILS</title>
+		</mails>
+		<menu>
+			<title>MENU</title>
+			<language>Language:</language>
+			<apply>APPLY</apply>
+		</menu>
+		<info>
+		</info>
+		<pause>
+			<complete>COMPLETE!</complete>
+			<title>PAUSE</title>
+			<playtime>Play Time</playtime>
+			<gametime>Game Time</gametime>
+			<progress>Progress</progress>
+			<steps>Steps</steps>
+			<next>GO NEXT</next>
+		</pause>
+		<hold>
+			<from>from</from>
+		</hold>
+	</popups>
+
+</strings>

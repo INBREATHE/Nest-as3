@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_ui/buttons/apply" itemID="55559a16-000001cd" linkageExportForAS="true" linkageClassName="ButtonAssetApply" symbolType="button" lastModified="1443706411" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="apply" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F1F1F1" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0|3200 0!3200 0|3200 1280!3200 1280|0 1280!0 1280|0 0"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="square" weight="2" pixelHinting="true" joints="miter">
+                            <fill>
+                              <SolidColor color="#FBFBFB"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!0 0S4|3520 0!3520 0|3520 1280!3520 1280|0 1280!0 1280|0 0"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F1F1F1" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0|3200 0!3200 0|3200 1280!3200 1280|0 1280!0 1280|0 0"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="square" weight="3" pixelHinting="true" joints="miter">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!0 0S4|3520 0!3520 0|3520 1280!3520 1280|0 1280!0 1280|0 0"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

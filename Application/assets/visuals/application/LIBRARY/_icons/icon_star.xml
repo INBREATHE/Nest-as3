@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_icons/icon_star" itemID="53fb1dff-00000563" linkageExportForAS="true" linkageBaseClass="flash.display.Sprite" linkageClassName="IconStarGraphicAssets" lastModified="1477332768" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="icon_star">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#999999"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!440 160|280 160!280 160|220 0!220 0|160 160!160 160|0 160!0 160|130 261!130 261|70 440!70 440|220 330!220 330|370 440!370 440|310 261!310 261|440 160!331 387|220 306!220 306|109 387!109 387|153 253!153 253|59 180!59 180|174 180!174 180
+|220 57!220 57|266 180!266 180|381 180!381 180|287 253!287 253|331 387"/>
+                        <Edge cubics="!59 180(;59,180 174,180 174,180q59 180 174 180);"/>
+                        <Edge cubics="!266 180(;266,180 381,180 381,180q266 180 381 180);"/>
+                        <Edge cubics="!287 253(;287,253 331,387 331,387q287 253 331 387);"/>
+                        <Edge cubics="!440 160(;440,160 280,160 280,160q440 160 280 160);"/>
+                        <Edge cubics="!280 160(;280,160 220,0 220,0q280 160 220 0);"/>
+                        <Edge cubics="!220 0(;220,0 160,160 160,160q220 0 160 160);"/>
+                        <Edge cubics="!160 160(;160,160 0,160 0,160q160 160 0 160);"/>
+                        <Edge cubics="!0 160(;0,160 130,261 130,261q0 160 130 261);"/>
+                        <Edge cubics="!130 261(130,261;130,261 70,440 70,440q130 261 70 440);"/>
+                        <Edge cubics="!70 440(;70,440 220,330 220,330q70 440 220 330);"/>
+                        <Edge cubics="!220 330(;220,330 370,440 370,440q220 330 370 440);"/>
+                        <Edge cubics="!370 440(;370,440 310,261 310,261q370 440 310 261);"/>
+                        <Edge cubics="!310 261(;310,261 440,160 440,160q310 261 440 160);"/>
+                        <Edge cubics="!174 180(;174,180 220,57 220,57q174 180 220 57);"/>
+                        <Edge cubics="!220 57(;220,57 266,180 266,180q220 57 266 180);"/>
+                        <Edge cubics="!109 387(;109,387 153,253 153,253q109 387 153 253);"/>
+                        <Edge cubics="!220 306(;220,306 109,387 109,387q220 306 109 387);"/>
+                        <Edge cubics="!331 387(;331,387 220,306 220,306q331 387 220 306);"/>
+                        <Edge cubics="!153 253(;153,253 59,180 59,180q153 253 59 180);"/>
+                        <Edge cubics="!381 180(;381,180 287,253 287,253q381 180 287 253);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,125 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_screens/screen_levels" itemID="53f8638b-00000aec" lastModified="1477423064">
+  <timeline>
+    <DOMTimeline name="screen_levels">
+      <layers>
+        <DOMLayer name="back" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_ui/buttons/back" name="btn_back" symbolType="button">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="info" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_ui/buttons/info" name="btn_info" symbolType="button">
+                  <matrix>
+                    <Matrix tx="974"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt_levelsTitle" left="-1081.85" width="261.3" height="28.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1458.85" ty="68.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CHOOSE LEVEL</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="24" bitmapSize="480" face="Lato-Bold" fillColor="#FF3366"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="counter" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_misc/counter" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="470" ty="652"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#4F80FF" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_graphics/background_tablet_landscape" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.762420654296875" d="0.746109008789063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="671.55" y="514.65"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="content" color="#808080" parentLayerIndex="4" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_screens/_levels/levels_block" selected="true" centerPoint3DX="458.8" centerPoint3DY="303.75">
+                  <matrix>
+                    <Matrix tx="215" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="243.8" y="223.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="back" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_graphics/background_tablet_landscape" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.762420654296875" d="0.746109008789063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="671.55" y="514.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

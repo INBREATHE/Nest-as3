@@ -1,0 +1,272 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_screens/screen_user" itemID="5603ebad-00000272" lastModified="1444745266">
+  <timeline>
+    <DOMTimeline name="screen_user" currentFrame="1">
+      <layers>
+        <DOMLayer name="goldencrop" color="#9933CC" locked="true" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="goback" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="info" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hud" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_screens/_user/facebook">
+                  <matrix>
+                    <Matrix tx="390" ty="588.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_screens/_user/vkcom">
+                  <matrix>
+                    <Matrix tx="535" ty="588.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="547" height="57.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="274" ty="100.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ПРОФИЛЬ ИГРОКА</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="48" bitmapSize="960" face="Lato-Heavy" fillColor="#F1F1F1"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="202.1" height="222.8" isSelectable="false" silent="true" hasAccessibleData="true">
+                  <matrix>
+                    <Matrix tx="325" ty="244.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Время в игре:&#xD;Игр доступно:&#xD;Игр пройдено:&#xD;Подсказок:&#xD;Покупок:&#xD;Очков:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="10" size="24" bitmapSize="480" face="Roboto-Light" fillColor="#F1F1F1"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="291.6" height="19.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="368.2" ty="542.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>СИНХРОНИЗАЦИЯ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="10" size="16" bitmapSize="320" face="Lato-Regular" fillColor="#F1F1F1"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="_ui/buttons/close" symbolType="button">
+                  <matrix>
+                    <Matrix tx="974"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="325.5" height="222.8" isSelectable="false" silent="true" hasAccessibleData="true">
+                  <matrix>
+                    <Matrix tx="606.95" ty="244.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>783 часа 32 минуты&#xD;122 ( 38 не пройдено )&#xD;84 ( 15 незакончено )&#xD;37 ( 20 купленных ) &#xD;5 (368 руб.)&#xD;1260</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="10" size="24" bitmapSize="480" face="Roboto-Light" fillColor="#F1F1F1"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="_ui/buttons/questionsign">
+                  <matrix>
+                    <Matrix tx="606" ty="534.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_screens/_user/vkcom" centerPoint3DX="395.05" centerPoint3DY="636.2">
+                  <matrix>
+                    <Matrix a="0.479034423828125" d="0.479034423828125" tx="371.05" ty="612"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="47.9" y="56.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="547" height="57.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="274" ty="100.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ПРОФИЛЬ ИГРОКА</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="48" bitmapSize="960" face="Lato-Heavy" fillColor="#F1F1F1"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="202.1" height="222.8" isSelectable="false" silent="true" hasAccessibleData="true">
+                  <matrix>
+                    <Matrix tx="325" ty="244.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Время в игре:&#xD;Игр доступно:&#xD;Игр пройдено:&#xD;Подсказок:&#xD;Покупок:&#xD;Очков:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="10" size="24" bitmapSize="480" face="Roboto-Light" fillColor="#F1F1F1"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="_ui/buttons/close" symbolType="button" centerPoint3DX="999" centerPoint3DY="25">
+                  <matrix>
+                    <Matrix tx="974"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="325.5" height="222.8" isSelectable="false" silent="true" hasAccessibleData="true">
+                  <matrix>
+                    <Matrix tx="606.95" ty="244.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>783 часа 32 минуты&#xD;122 ( 38 не пройдено )&#xD;84 ( 15 незакончено )&#xD;37 ( 20 купленных ) &#xD;5 (368 руб.)&#xD;1260</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="10" size="24" bitmapSize="480" face="Roboto-Light" fillColor="#F1F1F1"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="_ui/buttons/questionsign" centerPoint3DX="713.5" centerPoint3DY="599.5">
+                  <matrix>
+                    <Matrix tx="701" ty="587"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="251.1" height="40.4" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="447.8" ty="613.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Устройство синхронизировано &#xD;через социальную сеть вконтакте</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="16" bitmapSize="320" face="Lato-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_misc/goldencrop">
+                  <transformationPoint>
+                    <Point x="512" y="384"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_misc/goldencrop" centerPoint3DX="512" centerPoint3DY="384">
+                  <transformationPoint>
+                    <Point x="512" y="384"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="back" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_graphics/background_tablet_landscape">
+                  <matrix>
+                    <Matrix a="0.762420654296875" d="0.746109008789063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="671.55" y="514.65"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#121212"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_graphics/background_tablet_landscape" centerPoint3DX="512" centerPoint3DY="384">
+                  <matrix>
+                    <Matrix a="0.762420654296875" d="0.746109008789063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="671.55" y="514.65"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#121212"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_misc/counter" itemID="53f8551b-00000466" lastModified="1408961910">
+  <timeline>
+    <DOMTimeline name="counter">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2140 0|2140 300!2140 300|1840 300!1840 300|1840 0!1840 0|2140 0!1680 300|1380 300!1380 300|1380 0!1380 0|1680 0!1680 0|1680 300!1220 300|920 300!920 300|920 0!920 0|1220 0!1220 0|1220 300"/>
+                    <Edge fillStyle1="2" edges="!0 300|0 0!0 0|300 0!300 0|300 300!300 300|0 300"/>
+                    <Edge fillStyle1="1" edges="!760 0|760 300!760 300|460 300!460 300|460 0!460 0|760 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

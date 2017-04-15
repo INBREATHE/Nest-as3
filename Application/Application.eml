@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" jdk="Latest" jdk_type="Flex SDK Type (new)">
+	<output-test url="file://$MODULE_DIR$/../_out/test/Application"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="visuals" value="project"/>
+		<level name="framework" value="project"/>
+	</levels>
+</component>

@@ -1,0 +1,23 @@
+<font>
+	<info face="LatoRegularIndexiesBF" size="60" />
+	<common lineHeight="60" scaleW="115" scaleH="124" pages="1" />
+	<pages>
+		<page id="0" file="LatoRegularIndexiesBF.png" />
+	</pages>
+	<chars count="12">
+		<char id="48" x="0" y="41" width="30" height="41" xoffset="0" yoffset="20" xadvance="33" /><!-- 0 -->
+		<char id="49" x="88" y="42" width="24" height="40" xoffset="3" yoffset="20" xadvance="27" /><!-- 1 -->
+		<char id="50" x="32" y="0" width="27" height="40" xoffset="2" yoffset="20" xadvance="30" /><!-- 2 -->
+		<char id="51" x="60" y="42" width="27" height="41" xoffset="2" yoffset="20" xadvance="30" /><!-- 3 -->
+		<char id="52" x="0" y="0" width="31" height="40" xoffset="0" yoffset="20" xadvance="34" /><!-- 4 -->
+		<char id="53" x="88" y="0" width="26" height="41" xoffset="2" yoffset="20" xadvance="29" /><!-- 5 -->
+		<char id="54" x="60" y="0" width="27" height="41" xoffset="2" yoffset="20" xadvance="30" /><!-- 6 -->
+		<char id="55" x="0" y="83" width="27" height="40" xoffset="2" yoffset="20" xadvance="30" /><!-- 7 -->
+		<char id="56" x="31" y="41" width="28" height="41" xoffset="1" yoffset="20" xadvance="31" /><!-- 8 -->
+		<char id="57" x="28" y="83" width="26" height="40" xoffset="2" yoffset="20" xadvance="29" /><!-- 9 -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="19" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="152" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>
